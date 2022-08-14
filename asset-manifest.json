@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-mint/static/css/main.ffc13294.chunk.css",
+    "main.js": "/react-mint/static/js/main.b177bfa8.chunk.js",
+    "main.js.map": "/react-mint/static/js/main.b177bfa8.chunk.js.map",
+    "runtime-main.js": "/react-mint/static/js/runtime-main.9adb33d3.js",
+    "runtime-main.js.map": "/react-mint/static/js/runtime-main.9adb33d3.js.map",
+    "static/css/2.984f751f.chunk.css": "/react-mint/static/css/2.984f751f.chunk.css",
+    "static/js/2.d939944f.chunk.js": "/react-mint/static/js/2.d939944f.chunk.js",
+    "static/js/2.d939944f.chunk.js.map": "/react-mint/static/js/2.d939944f.chunk.js.map",
+    "static/js/3.ea86bdb2.chunk.js": "/react-mint/static/js/3.ea86bdb2.chunk.js",
+    "static/js/3.ea86bdb2.chunk.js.map": "/react-mint/static/js/3.ea86bdb2.chunk.js.map",
+    "index.html": "/react-mint/index.html",
+    "static/css/2.984f751f.chunk.css.map": "/react-mint/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.ffc13294.chunk.css.map": "/react-mint/static/css/main.ffc13294.chunk.css.map",
+    "static/js/2.d939944f.chunk.js.LICENSE.txt": "/react-mint/static/js/2.d939944f.chunk.js.LICENSE.txt",
+    "static/media/coinbase.png": "/react-mint/static/media/coinbase.f13adbeb.png",
+    "static/media/walletconnect.png": "/react-mint/static/media/walletconnect.b90ea78a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9adb33d3.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.d939944f.chunk.js",
+    "static/css/main.ffc13294.chunk.css",
+    "static/js/main.b177bfa8.chunk.js"
+  ]
+}
